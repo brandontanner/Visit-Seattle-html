@@ -12,7 +12,7 @@ Includes:
 
 ### Installation
 
-Download **seattle.html** file and **seattle.jpg** into the same folder, then drag and drop the html file into the browser.
+Download the **seattle.html** file and the **seattle.jpg** into the same folder, then drag and drop the html file into the browser.
 
 ### Roadmap
 
